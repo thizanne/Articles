@@ -6,7 +6,7 @@ Column {
     width: 500; height: 500
     spacing: 10
 
-    Button { width: 150; text: "Un boutton" }
+    Button { width: 150; text: "Un bouton" }
     CheckBox { width: 150; text: "Un case à cocher" }
     RadioButton { width: 150; text: "Un bouton radio" }
     ComboBox { width: 150; model: [ "Une liste de choix", "Autre choix" ] }
