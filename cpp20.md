@@ -1,4 +1,7 @@
 
+> Discussion sur le forum : https://zestedesavoir.com/forums/sujet/10631/les-prochaines-normes-du-c-le-c20-et-le-c23/
+> Ou sur le discord : https://discordapp.com/invite/zcWp9sC
+
 # Les prochaines normes du C++ : le C++20 et le C++23
 
 > Le C++20 est obsolète, vive le C++23
