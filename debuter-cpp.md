@@ -16,6 +16,12 @@
 
 Vous voulez apprendre le C++ ? Voici la liste des ressources à lire, et une proposition de plan d'apprentissage.
 
+## public et objectifs 
+
+quel est le public cible? Personnes qui n’ont jamais développé? Développeurs de formations ? Scientifiques de formation ? Lycéens autodidactes qui connaissent python ? html? …?
+
+
+
 [...] <=== mettre ici le contenu de l'article !
 
 # Liste des auteurs
