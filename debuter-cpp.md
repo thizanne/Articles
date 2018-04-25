@@ -5,3 +5,5 @@ Vous voulez apprendre le C++ ? Voici la liste des ressources à lire, et une pro
 
 Cf https://zestedesavoir.com/forums/sujet/10629/meta-article-debuter-en-c/
 
+sur le modele de https://alp.developpez.com/tutoriels/debuter-cpp/
+
