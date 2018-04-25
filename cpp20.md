@@ -199,4 +199,8 @@ Quelques extraits du mailing [post-jacksonville 2018](http://www.open-std.org/jt
 
 https://www.youtube.com/watch?v=e2ZQyYr0Oi0
 
+## Auteurs
+
+- gbdivers
+- lmghs
 
